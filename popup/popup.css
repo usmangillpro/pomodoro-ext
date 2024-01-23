@@ -1,0 +1,29 @@
+body {
+  padding: 20px 10px 25px 10px;
+  margin: 0px;
+  box-sizing: border-box;
+  width: 300px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  column-gap: 20px;
+  gap: 20px;
+  background-color: rgba(255, 127, 80, 0.349);
+}
+
+button {
+  width: auto;
+  height: auto;
+  background-color: rgb(68, 64, 64);
+  color: white;
+  font-size: large;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+button:hover {
+  font-size: x-large;
+  transition: ease 0.2s;
+}

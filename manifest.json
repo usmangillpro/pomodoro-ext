@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "version": "1.0.0",
+  "description": "Helps to be focused",
+  "icons": {
+    "16": "pomodoro.png",
+    "48": "pomodoro.png",
+    "128": "pomodoro.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "pomodoro.png",
+      "32": "pomodoro.png",
+      "48": "pomodoro.png"
+    },
+    "default_title": "Pomodoro Timer",
+    "default_popup": "popup/popup.html"
+  }
+}
